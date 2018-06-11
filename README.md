@@ -1,0 +1,2 @@
+# Statistical-Distribution-with-Numpy
+What is a histogram and how to map one using Matplotlib How to identify different dataset shapes, depending on peaks or distribution of data The definition of a normal distribution and how to use NumPy to generate one using NumPy's random number functions The relationships between normal distributions and standard deviations The definition of a binomial distribution
